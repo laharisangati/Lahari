@@ -215,6 +215,14 @@ img {
   height: 180px;
 }
 
+.profilepic1 {
+  width: 80px;
+  height: 80px;
+}
+
+.con{
+  width: 80%;
+}
 @media (max-width: 422px) {
   .num {
     padding-top: 2rem;
